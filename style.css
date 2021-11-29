@@ -3,7 +3,7 @@
 
 body{
     background-color: rgb(22, 22, 22);
-    background-image: url("./clouds.jpg");
+    background-image: url("./img/clouds.jpg");
     background-size: cover;
     color: whitesmoke;
 }
